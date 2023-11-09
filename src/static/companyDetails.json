@@ -1,0 +1,14 @@
+{
+    "kidsWorld": {
+        "apiUrl": "http://localhost:3002/api/toyshop",
+        "companyName": "Toy Shop"
+    },
+    "toyUniverse": {
+        "apiUrl": "http://localhost:3002/api/toyuniverse",
+        "companyName": "Toy Universe"
+    },
+    "toyShop": {
+        "apiUrl": "http://localhost:3002/api/kidsworld",
+        "companyName": "Kids World"
+    }
+}
